@@ -4,7 +4,7 @@ Web GUI for SQLite is a web-based SQLite browser written in JavaScript.
 
 This tool is still basic and needs to be improved.
 
-Try the demo here: [https://extendsclass.com/sqlite-browser.html](https://extendsclass.com/sqlite-browser.html)
+Demo: https://oleteacher.github.io/sqlite-editor/
 
 ![alt text](./image/preview.png "Preview")
 
